@@ -1,0 +1,17 @@
+{
+  "name": "massage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "socket.io": "^4.0.2"
+  }
+}
